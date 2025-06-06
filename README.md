@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Shakiba Rahimiaghdam</h1>
+<h1 align="left">Hi 👋, I'm Shakiba Rahimi (Rahimiaghdam)</h1>
 <h3 align="left">🎯 A Machine Learning Researcher & Data Scientist based in Canada, passionate about developing ethical, explainable, and impactful AI systems. I develop innovative machine learning (ML) solutions and leverage advanced artificial intelligence (AI) techniques to solve complex problems across various domains.</h3>
 
 <br>
